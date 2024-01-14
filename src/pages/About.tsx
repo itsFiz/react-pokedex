@@ -1,7 +1,7 @@
 import React from "react";
 import Wrapper from "../sections/Wrapper";
 import avatarImage from "../assets/fiz.jpg";
-import { FaYoutube, FaGithub, FaLinkedin, FaDiscord } from "react-icons/fa";
+import { FaYoutube, FaGithub, FaLinkedin, FaDiscord, FaTwitter } from "react-icons/fa";
 
 function About() {
   return (
@@ -14,8 +14,8 @@ function About() {
         <a href="https://github.com/itsfiz">
           <FaGithub />
         </a>
-        <a href="https://www.youtube.com/c/KishanSheth21">
-          <FaYoutube />
+        <a href="https://twitter.com/criedfizcken">
+          <FaTwitter />
         </a>
         <a href="https://www.linkedin.com/in/hfzkdr/">
           <FaLinkedin />
